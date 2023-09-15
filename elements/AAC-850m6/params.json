@@ -1,0 +1,28 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 600,
+        "width": 800
+    },
+    "display": "Background",
+    "fields": {
+        "AAD": {
+            "caption": "Speed",
+            "default_val": 2,
+            "doc": "Max speed: 20",
+            "editor": "DynamicValue",
+            "name": "speed",
+            "optional": false,
+            "rank": 0,
+            "value": "number"
+        }
+    },
+    "icon": "ion-android-checkbox-blank",
+    "property_applications": {
+        "Border": true,
+        "BoxShadow": true,
+        "MinWidth": true,
+        "resizable": true
+    }
+}
